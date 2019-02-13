@@ -1,7 +1,7 @@
 # vue-crypto
 
 > Crypto tracker and viewer for the web
-> ![alt text](https://pasteboard.co/I10Kc9y.png)
+> ![crypto-tracker](https://cdn.pbrd.co/images/I10Kc9y.png)
 
 ## Build Setup
 
@@ -20,4 +20,5 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
 # crypto-tracker
